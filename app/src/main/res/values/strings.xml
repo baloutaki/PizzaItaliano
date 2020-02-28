@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PizzaItaliano</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="str_tv_qoute">PIZZA MAKES ANYTHING POSSIBLE</string>
+    <string name="str_btn_size">Choose your pizza size</string>
+    <string name="str_btn_topics">Choose your topics</string>
+    <string name="str_btn_order">Place your order</string>
+</resources>
